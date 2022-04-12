@@ -16,7 +16,7 @@ Objetivos:
 
 ## UNIDADE 1
 
-1. [Transformada de Fourier de Tempo Discreto (DTFT)](/PreparacaoAmbrienteVirtual/DTFT.ipynb)
+1. [Transformada de Fourier de Tempo Discreto (DTFT)](/Unidade%201/DTFT.ipynb)
 2. Transformada Discreta de Fourier (TDF)
 3. Transformada Z Unilateral e Bilateral
 4. Fundamentos da Transformada Wavelet Discreta.
