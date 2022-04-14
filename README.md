@@ -4,9 +4,14 @@ Material feito por Leonardo Saads - supervisionado.
 
 ## UNIDADE 0 - Preparação do Ambiente Virtual.
 
-1. Jupyter Notebook
-2. Docker
-3. [GitHub](/PreparacaoAmbrienteVirtual/Github.ipynb)
+0. Aprendendo Python
+    * [Treinamento básico 01](./PreparacaoAmbrienteVirtual/h01_aprendendo_python_1.ipynb)
+    * [Treinamento básico 02](./PreparacaoAmbrienteVirtual/h01_aprendendo_python_2.ipynb)
+    * [Treinamento básico 03](./PreparacaoAmbrienteVirtual/h01_aprendendo_python_3.ipynb)
+    * [Treinamento básico 04](./PreparacaoAmbrienteVirtual/h01_aprendendo_python_4.ipynb)
+1. [GitHub](/PreparacaoAmbrienteVirtual/Github.ipynb)
+2. [O básico de Jupyter Notebook]()
+3. [Docker]()
 
 Objetivos:
 
@@ -17,7 +22,7 @@ Objetivos:
 ## UNIDADE 1
 
 1. [Transformada de Fourier de Tempo Discreto (DTFT)](/Unidade%201/DTFT.ipynb)
-2. Transformada Discreta de Fourier (TDF)
+2. [Transformada Discreta de Fourier (DFT)](/Unidade%201/DFT.ipynb)
 3. Transformada Z Unilateral e Bilateral
 4. Fundamentos da Transformada Wavelet Discreta.
 5. Exercícios
@@ -37,5 +42,3 @@ Objetivos:
 3. Aproximações de Filtros IIR
 4. Estudo de caso: Sistemas OFDM e F-OFDM
 5. Exercícios
-
-
