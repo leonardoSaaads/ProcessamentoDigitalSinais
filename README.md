@@ -23,7 +23,7 @@ Objetivos:
 
 1. [Transformada de Fourier de Tempo Discreto (DTFT)](/Unidade%201/DTFT.ipynb)
 2. [Transformada Discreta de Fourier (DFT)](/Unidade%201/DFT.ipynb)
-3. Transformada Z Unilateral e Bilateral
+3. [Transformada Z Unilateral e Bilateral](/Unidade%201/Transformada_z.ipynb)
 4. Fundamentos da Transformada Wavelet Discreta.
 5. [Exercícios DTFT](/Unidade%201/Exerc%C3%ADcios_TFTD.pdf)
 
