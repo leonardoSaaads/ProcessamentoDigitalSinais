@@ -11,7 +11,7 @@ Material feito por Leonardo Saads - supervisionado.
     * [Treinamento básico 04](./PreparacaoAmbrienteVirtual/h01_aprendendo_python_4.ipynb)
 1. [GitHub](/PreparacaoAmbrienteVirtual/Github.ipynb)
 2. [O básico de Jupyter Notebook]()
-3. [Docker]()
+3. [Docker](/PreparacaoAmbrienteVirtual/Dockerfile)
 
 Objetivos:
 
@@ -25,7 +25,7 @@ Objetivos:
 2. [Transformada Discreta de Fourier (DFT)](/Unidade%201/DFT.ipynb)
 3. Transformada Z Unilateral e Bilateral
 4. Fundamentos da Transformada Wavelet Discreta.
-5. Exercícios
+5. [Exercícios DTFT](/Unidade%201/Exerc%C3%ADcios_TFTD.pdf)
 
 ## UNIDADE 2
 
