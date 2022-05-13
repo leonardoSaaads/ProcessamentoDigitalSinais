@@ -26,10 +26,11 @@ Objetivos:
 3. [Transformada Z Unilateral e Bilateral](/Unidade%201/Transformada_z.ipynb)
 4. Fundamentos da Transformada Wavelet Discreta.
 5. [Exercícios DTFT](/Unidade%201/Exerc%C3%ADcios_TFTD.pdf)
+6. [Exercícios Transformada Z](/Unidade%201/Exercicios_transform_z.pdf)
 
 ## UNIDADE 2
 
-1. Conversão de Sinais de Tempo Contínuo em Tempo Discreto. - Teorema da amostragem.
+1. [Conversão de Sinais de Tempo Contínuo em Tempo Discreto - Teorema da amostragem.](/Unidade%202/amostragem.ipynb)
 2. Reconstrução de Sinais.
 3. Filtro retentor de ordem zero (ROZ) & Filtro Retentor de Primeira Ordem (RPO)
 4. Exercícios
