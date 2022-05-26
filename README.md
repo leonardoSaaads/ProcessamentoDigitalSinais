@@ -31,9 +31,9 @@ Objetivos:
 ## UNIDADE 2
 
 1. [Conversão de Sinais de Tempo Contínuo em Tempo Discreto - Teorema da amostragem.](/Unidade%202/amostragem.ipynb)
-2. Reconstrução de Sinais.
+2. [Reconstrução de Sinais.](/Unidade%202/Reconstrucao_sinais.ipynb)
 3. Filtro retentor de ordem zero (ROZ) & Filtro Retentor de Primeira Ordem (RPO)
-4. Exercícios
+4. [Exercícios](/Unidade%202/exercicios_und_2.pdf)
 
 
 ## UNIDADE 3
