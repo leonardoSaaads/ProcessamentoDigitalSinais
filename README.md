@@ -25,21 +25,20 @@ Objetivos:
 2. [Transformada Discreta de Fourier (DFT)](/Unidade%201/DFT.ipynb)
 3. [Transformada Z Unilateral e Bilateral](/Unidade%201/Transformada_z.ipynb)
 4. Fundamentos da Transformada Wavelet Discreta.
-5. [Exercícios DTFT](/Unidade%201/Exerc%C3%ADcios_TFTD.pdf)
-6. [Exercícios Transformada Z](/Unidade%201/Exercicios_transform_z.pdf)
+5. [Fundamentos do algoritmo Radix-2](/Unidade%201/Radix_2.ipynb)
+6. [Exercícios DTFT](/Unidade%201/Exerc%C3%ADcios_TFTD.pdf)
+7. [Exercícios Transformada Z](/Unidade%201/Exercicios_transform_z.pdf)
 
 ## UNIDADE 2
 
 1. [Conversão de Sinais de Tempo Contínuo em Tempo Discreto - Teorema da amostragem.](/Unidade%202/amostragem.ipynb)
-2. [Reconstrução de Sinais.](/Unidade%202/Reconstrucao_sinais.ipynb)
-3. Filtro retentor de ordem zero (ROZ) & Filtro Retentor de Primeira Ordem (RPO)
+2. [Aliasing de Sinais Senoidais](/Unidade%202/aliasingsenoidais.ipynb)
+3. [Reconstrução de Sinais.](/Unidade%202/Reconstrucao_sinais.ipynb)
 4. [Exercícios](/Unidade%202/exercicios_und_2.pdf)
-
 
 ## UNIDADE 3
 
-1. Projetos de Filtros Digitais (FIR e IIR)
-2. Aproximações de Filtros FIR
-3. Aproximações de Filtros IIR
-4. Estudo de caso: Sistemas OFDM e F-OFDM
-5. Exercícios
+1. [Aproximações de Filtros FIR (Método das janelas)](/Unidade%20%203/janelas.ipynb)
+2. Aproximações de Filtros IIR
+3. Estudo de caso: Sistemas OFDM e F-OFDM
+4. Exercícios
