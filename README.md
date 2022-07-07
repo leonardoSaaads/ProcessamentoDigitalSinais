@@ -29,6 +29,11 @@ Objetivos:
 6. [Exercícios DTFT](/Unidade%201/Exerc%C3%ADcios_TFTD.pdf)
 7. [Exercícios Transformada Z](/Unidade%201/Exercicios_transform_z.pdf)
 
+Objetivos:
+
+* Aprender sobre a Transformada de Fourier em diferentes domínios.
+* Aprender sobre a transformada Z.
+* Aprender sobre o algorístimo Radix-2 para minimizar o tempo de computação para DFT.
 ## UNIDADE 2
 
 1. [Conversão de Sinais de Tempo Contínuo em Tempo Discreto - Teorema da amostragem.](/Unidade%202/amostragem.ipynb)
@@ -36,9 +41,18 @@ Objetivos:
 3. [Reconstrução de Sinais.](/Unidade%202/Reconstrucao_sinais.ipynb)
 4. [Exercícios](/Unidade%202/exercicios_und_2.pdf)
 
+Objetivos:
+
+* Aprender sobre o teorema de amostragem de Nyquist-Shannon.
+* Aprender sobre os efeitos de aliasing em sinais periódicos e aperiódicos.
+* Aprender sobre a reconstrução de sinais através de retentores (ZOH & FOH).
+
 ## UNIDADE 3
 
 1. [Aproximações de Filtros FIR (Método das janelas)](/Unidade%20%203/janelas.ipynb)
-2. Aproximações de Filtros IIR
-3. Estudo de caso: Sistemas OFDM e F-OFDM
-4. Exercícios
+2. [Aproximações de Filtros FIR (Amostragem em Freq.)](/Unidade%20%203/amostragemfreq.ipynb)
+3. Aproximações de Filtros IIR
+4. Estudo de caso: Sistemas OFDM e F-OFDM
+5. [Exercícios](/Unidade%20%203/ListaFiltros.pdf)
+
+
